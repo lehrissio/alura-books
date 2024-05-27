@@ -1,8 +1,6 @@
 # Projeto - Alura Books
 
-![6](https://github.com/lehrissio/alura-books/assets/103052994/98fa135e-a559-4270-8936-4ec22916a129)
-
-![7](https://github.com/lehrissio/alura-books/assets/103052994/ad4621a0-498e-4bc8-aad7-3ea6a3710856)
+![alurabooks](https://github.com/lehrissio/alura-books/assets/103052994/b533c298-bea2-44db-bc3e-84d5cd41461e)
 
 
 ## Ferramentas Utilizadas
