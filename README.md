@@ -1,6 +1,6 @@
 <h1 align="center">Projeto - Alura Books 📚</h1>
 
-<p align="center"> Este é um projeto desenvolvido durante a formação da Alura <a href="https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR">A partir do Zero: HTML e CSS para Projetos Web.</a><br>
+<p align="center"> Este é o terceiro projeto desenvolvido durante a formação da Alura <a href="https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR">A partir do Zero: HTML e CSS para Projetos Web.</a><br>
 Possui um navbar resposivo, com uma lista de categorias e menu hamburguer que foi feito sem precisar utilizar JS. Além disso, foi apresentado durante as aulas a biblioteca Swiper JS para a implentação de carrosséis de imagens. Tudo isso com foco em responsividade. </p>
 
 <br>
