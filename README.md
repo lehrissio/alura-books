@@ -8,14 +8,14 @@ Possui um navbar resposivo, com uma lista de categorias e menu hamburguer que fo
 
 <div align="center">
   <a target="_blank" href="https://alura-books-six-nu.vercel.app/">
-          <img width="90%" src="./assets/mockup.jpg" alt="portifolio">
+          <img width="90%" src="https://github.com/user-attachments/assets/e6d17400-d6c5-452c-920f-359f5e7a3ced">
   </a>
 </div>
 
 <div align="center">
     <h3>Página completa do projeto</h3><br>
     <a target="_blank" href="https://alura-books-six-nu.vercel.app/">
-    <img width="80%" src="./assets/print_home.png" alt="portifolio">
+    <img width="80%" src="./assets/print_home.png">
     </a>
 </div>
 
